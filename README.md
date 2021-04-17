@@ -58,3 +58,4 @@ The Suction- The device even contains a suction which sucks all the waste gather
 The Power- The device works on 2 different energies that is the tidal energy and the solar energy. The waves which are created by the sea water are used to create the electricity for the suction and working of the device. Similarly there are also solar panels on the device because during the day time there is a lot of sunlight which falls on the device and this can be also used to generate electricity. This also makes the device more eco friendly.
 
 THE END
+
